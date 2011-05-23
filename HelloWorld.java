@@ -1,4 +1,4 @@
-
+//just a test
 import acm.program.*;
 
 public class HelloWorld extends ConsoleProgram {
